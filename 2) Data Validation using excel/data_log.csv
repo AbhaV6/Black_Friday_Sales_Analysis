@@ -1,0 +1,13 @@
+Check,Result,Action
+Missing User_ID,0,No action
+Missing Product_ID,0,No action
+Missing Purchase,0,No action
+Missing Category 2,"1,73,638",Replace with Unknown
+Missing Category 3,"3,83,247",Replace with Unknown
+Duplicate Records,0,No action
+Duplicate User + Product,0,No action
+Invalid Purchase ? 0,0,No action
+Invalid Gender,0,No action
+Invalid Age,0,No action
+Invalid City Category,0,No action
+Invalid Marital Status,0,No action
